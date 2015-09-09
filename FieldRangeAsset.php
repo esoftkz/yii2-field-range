@@ -6,7 +6,7 @@
  * @version 1.3.1
  */
 
-namespace kartik\field;
+namespace esoftkz\field;
 
 /**
  * Field Range bundle for \kartik\field\FieldRange

@@ -6,7 +6,7 @@
  * @version 1.3.1
  */
 
-namespace kartik\field;
+namespace esoftkz\field;
 
 use yii\base\Model;
 use yii\web\View;
